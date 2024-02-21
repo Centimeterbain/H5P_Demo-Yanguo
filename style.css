@@ -1,0 +1,36 @@
+* {
+  /*   border: solid 1px red; */
+  font-family: "cwTeXHei", sans-serif;
+}
+
+#Demo {
+  position: relative;
+  top: 80px;
+}
+#video {
+  position: relative;
+  top: 120px;
+}
+#question {
+  position: relative;
+  top: 160px;
+}
+#word {
+  position: relative;
+  top: 200px;
+}
+#End {
+  position: relative;
+  top: 240px;
+}
+
+#page {
+  position: relative;
+  top: 280px;
+}
+
+.know {
+  position: relative;
+  margin: 0 auto;
+  width: 300px;
+}
